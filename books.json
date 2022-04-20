@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name" : "Game of Thrones",
+        "author":"ABC",
+        "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, harum."
+    },
+    {
+        "id":2,
+        "name" : "Harry Potter",
+        "author":"XYZ",
+        "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, harum."
+    },
+    {
+        "id":3,
+        "name" : "Whispers of Time",
+        "author":"Dr. Krishna Saksena",
+        "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, harum."
+    },
+    {
+        "id":4,
+        "name" : "A Passage to India",
+        "author":"E.M. Foster",
+        "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, harum."
+    }
+]
